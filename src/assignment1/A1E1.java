@@ -9,6 +9,8 @@ public class A1E1 {
 				fact *= i;
 			}
 			System.out.println(fact);
+		} else if (n >= 0) {
+			System.out.println(1);	
 		} else {
 			System.out.println("Invalid input");
 		}
