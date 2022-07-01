@@ -1,4 +1,4 @@
-package Assignment3;
+package assignment3;
 
 
 // throw a NumberFormatException and handle it

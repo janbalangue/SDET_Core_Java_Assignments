@@ -1,4 +1,4 @@
-package Assignment3;
+package assignment3;
 
 // re-throws an exception
 public class A3E8 {

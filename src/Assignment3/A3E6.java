@@ -1,4 +1,4 @@
-package Assignment3;
+package assignment3;
 
 // write a method that throws ArithmeticException
 public class A3E6 {
